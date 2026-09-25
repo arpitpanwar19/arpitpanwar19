@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Arpit Panwar!
 
-I'm a first-year B.Tech Computer Science student at Roorkee Institute of Technology with a strong passion for leadership and technology. I'm currently building my skills in Web Development and am excited about creating projects that solve real-world problems.
+I'm a secoy-year B.Tech Computer Science student at Roorkee Institute of Technology with a strong passion for leadership and technology. I'm currently building my skills in Web Development and am excited about creating projects that solve real-world problems.
 
 ---
 
